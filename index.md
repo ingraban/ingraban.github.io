@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+## Wilfrieds Blog
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+In diesem Blog versuche ich mal interessante Erkenntnisse zur Softwareentwicklung mit GitHub, SpringBoot und weiteren Techniken zu posten.
