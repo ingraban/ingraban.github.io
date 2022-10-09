@@ -1,4 +1,4 @@
-## Veränderungen
+# Veränderungen
 
 Von Albert Einstein stammt das Zitat:
 
